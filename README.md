@@ -11,7 +11,7 @@ VUE-APP<br>
 <strong>5、启动后台应用:</strong><br>
 <span>1). 进入shop_server
 	2). 执行命令: npm start<br>
-<strong>6、启动前台应用:</strong>
+<strong>6、启动前台应用:</strong><br>
 <span>1). 进入shop_client 
 	2). 执行命令: npm start/npm run dev    
 
