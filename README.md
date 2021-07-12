@@ -1,5 +1,5 @@
 # shop-vue-master
- <h1>VUE-APP</h1>
+VUE-APP
 <h2>1、部署npm环境
 <span>简单的部署教程链接：https://www.cnblogs.com/lichangyun/p/9144984.html<br>
 <h2>2、下载vue-cli脚手架
